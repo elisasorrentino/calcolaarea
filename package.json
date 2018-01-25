@@ -1,0 +1,23 @@
+{
+  "name": "calcola_area",
+  "version": "1.0.0",
+  "description": "calcola area",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "elisa",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elisasorrentino/calcolaarea.git"
+  },
+  "bugs": {
+    "url": "https://github.com/elisasorrentino/calcolaarea/issues"
+  },
+  "homepage": "https://github.com/elisasorrentino/calcolaarea#readme"
+}
